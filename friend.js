@@ -23,7 +23,7 @@ class App3 extends React.Component{
                     "name":"renuka:renu"
                 },
                 {
-                    "name":"Shamu:sweety"
+                    "name":"Shanmu:sweety"
                 }
             ]
         }
